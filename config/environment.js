@@ -18,6 +18,13 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+     apiKey: "AIzaSyAveGJajTn9yiHESurRzYPZZ7TGnFQFIRE",
+     authDomain: "gamestation-27e06.firebaseapp.com",
+     databaseURL: "https://gamestation-27e06.firebaseio.com",
+     storageBucket: ""
+   },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
