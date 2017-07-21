@@ -1,10 +1,10 @@
 <li class="well">
 <!-- Making every game name a clickable link -->
-  <ul>{{#link-to 'game' game.id}}{{game.name}}{{/link-to}}</ul>
+  <ul><h4>{{#link-to 'game' game.id}}{{game.name}}{{/link-to}}</h4></ul>
 
 
 <!-- Image on every game -->
-  <p>{{#link-to 'game' game.id}}<img src={{game.image}} alt={{game.name}} {{action 'imageHide'}}>{{/link-to}}</p>
+  <p><span class="picture">{{#link-to 'game' game.id}}<img src={{game.image}} alt={{game.name}}>{{/link-to}}</span></p>
 
   <ul>{{game.console}}</ul>
 </li>
