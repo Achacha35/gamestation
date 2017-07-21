@@ -1,8 +1,6 @@
 {{outlet}}
 <ul>
   {{#each model as |game|}}
-  <li>{{game.name}}</li>
-
-  <li>{{game.console}}</li>
+  {{game-tile game=game}}
   {{/each}}
 </ul>

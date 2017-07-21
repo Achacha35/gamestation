@@ -1,1 +1,9 @@
-{{yield}}
+<li>
+  <ul>{{game.name}}</ul>
+  {{#if isImageShowing }}
+  <p><img src={{game.image}} alt={{game.name}} {{action 'imageHide'}}></p>
+  {{else}}
+  <button {{action 'imageShow'}}>Show image</button>
+  {{/if}}
+  <ul>{{game.console}}</ul>
+</li>
