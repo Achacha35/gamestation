@@ -1,15 +1,20 @@
 .jumbotron {
   text-align: center;
-  background-color: #022256;
+  background-color: maroon;
   color:white;
 }
 .overall {
   background-color: black;
 }
 h4 {
-  font-size: 30px;
+  color: maroon;
+  font-size: 40px;
   font-family: cursive;
   text-align: center;
+  padding-right: 20px;
+}
+.picture{
+  padding-left: 10px;
 }
 .picture:hover {
   opacity: 0.5;
@@ -24,5 +29,13 @@ h1 {
 p {
   font-size: 20px;
   color: white;
-  
+}
+.detail {
+  color: white;
+  font-family: cursive;
+  font-size: 20px;
+}
+li {
+  font-size: 20px;
+  color: maroon;
 }
