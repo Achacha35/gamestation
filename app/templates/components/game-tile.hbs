@@ -1,5 +1,5 @@
 <li>
-  <ul>{{game.name}}</ul>
+  <ul>{{#link-to 'game' game.id}}{{game.name}}{{/link-to}}</ul>
   {{#if isImageShowing }}
   <p><img src={{game.image}} alt={{game.name}} {{action 'imageHide'}}></p>
   {{else}}
