@@ -14,3 +14,15 @@ h4 {
 .picture:hover {
   opacity: 0.5;
 }
+.nav nav-pills {
+  background-color: white;
+}
+h1 {
+  font-family: fantasy;
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+  color: white;
+  
+}
