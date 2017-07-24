@@ -22,6 +22,19 @@ export default Ember.Route.extend({
        return game.save();
      });
      this.transitionTo('game', game);
+   },
+   destroyGame(game) {
+      var review_deletions = game.get('reviews').map(function(review) {
+        return review.destroyRecord();
+      });
+      Ember.RSVP.all(review_deletions).then(function() {
+        return game.destroyRecord();
+      });
+      this.transitionTo('index');
+    },
+   destroyReview(review) {
+     review.destroyRecord();
+     this.transitionTo('index');
    }
   }
 });
