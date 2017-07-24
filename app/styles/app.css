@@ -1,7 +1,7 @@
 .jumbotron {
   text-align: center;
   background-color: maroon;
-  color:white;
+  color:black;
 }
 .overall {
   background-color: black;
@@ -20,7 +20,7 @@ h4 {
   opacity: 0.5;
 }
 .nav nav-pills {
-  background-color: white;
+  background-color: black;
 }
 h1 {
   font-family: fantasy;
@@ -28,14 +28,14 @@ h1 {
 }
 p {
   font-size: 20px;
-  color: white;
+  color: black;
 }
 .detail {
-  color: white;
+  color: black;
   font-family: cursive;
   font-size: 20px;
 }
 li {
   font-size: 20px;
-  color: maroon;
+
 }

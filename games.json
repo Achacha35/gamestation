@@ -1,51 +1,60 @@
 { "games" :  [{
-  "id":1,
+  "id":0,
   "image": "https://s-media-cache-ak0.pinimg.com/originals/3b/e1/b9/3be1b96a85580dfeb0e58a222da8455f.jpg",
   "name": "The Witcher:Wild Hunt",
   "console": "PS4",
   "details": "The world is in chaos. The air is thick with tension and the smoke of burnt villages. The fearsome Empire of Nilfgaard has struck again, ravaging the hapless Northern Kingdoms. The once-mighty who tried to use Geralt for their own gain are now gone. In these uncertain times, no one can say what fortune holds in store, who will bring peace to the world and who will cause it only misery. But a force darker and deadlier emerges. The petty men and women commanding tin-plated armies fail to understand that their conflict is child’s play compared to the Wild Hunt, the otherworldly threat which now looms. These ghastly spectral riders have for ages plagued humankind, bringing misery to the world. Yet this time the Wild Hunt seeks one person in particular: the one individual Destiny itself bestowed upon Geralt, the one soul Geralt considers kin.  The climactic third game in the fantasy RPG series, The Witcher 3: Wild Hunt is a unique combination of a non-linear story and an open world -- a character-driven, non-linear story experience focused on player choice, tactical combat and a rich, living environment. This world is populated with intelligent inhabitants and animated by new mechanics that make it a dynamic, living, breathing place. As players travel the world, witnessing many a sunrise or sunset, enduring torrential rains or sweltering heat, they see predators hunting their prey, villages defending themselves against monsters, lovers meeting by moonlight. The new in-game economy system varies the price of goods based on surrounding conditions or their place of origin, encouraging players to seek out through hunting and collecting items that are in demand. With a re-envisioned approach to the narrative, the game will be accessible to both newcomers and old time fans, and a tutorial eases players into the game. Combat has been redesigned in order to combine traditional RPG elements with the speed and precision of a dedicated fighting game. All of these gameplay features are integrated into a robust RPG system at the heart of the game."
 },{
-  "id": 2,
+  "id": 1,
   "image": "https://s-media-cache-ak0.pinimg.com/originals/71/ff/58/71ff58b45cc878c81fd303df307b27eb.jpg",
   "name": "Payday 2",
   "console": "PS4",
   "details": "Payday 2 is a cooperative first-person shooter video game developed by Overkill Software and published by 505 Games has former published by Sony. The game is a sequel to 2011's Payday: The Heist. It was released on 13 August 2013 for Microsoft Windows, PlayStation 3 and Xbox 360. An improved version of the game, subtitled Crimewave Edition, was released for PlayStation 4 and Xbox One in June 2015 (on 12 June in the UK and Europe and on 16 June in North America. The game has been announced for the Nintendo Switch and will come out in the fall of 2017.  Two years after the events of the previous game, a new gang comes to the Washington, D.C. area to perform another heisting spree. The player takes control of one of the gang's seventeen members and can perform heists alone, or with up to three team-mates (controlled by AI or by other players). The player can participate in a variety of heists, including but not limited to robberies of banks, shops and armored cars, and producing and distributing narcotics. The game differs on the previous by allowing much more customization of the player (aesthetically and gameplay-wise), more variety in levels, and has reworked stealth mechanics."
 },{
-  "id": 3,
+  "id": 2,
   "image": "https://s-media-cache-ak0.pinimg.com/originals/73/81/1b/73811bbb01e6fa714b10f080217073f7.jpg",
   "name": "Watchdogs 2",
   "console": "PS4",
   "details": "When Marcus Holloway, a self-taught hacker, is accused of a crime against the HDC, for a high-tech burglary he did not commit, he takes the fight to them and reveals their corruption. A while later he is put through a trial by Dedsec to erase his digital shadow in a Blume server farm, whilst inside he realises how much data is being collected by the system. The story follows after the events of the first game, with CTOS 2.0 being installed across the United States. The player's mission is to reveal the corruption of the CTOS 2.0 system by the CTO of the Blume Corporation, Dušan Nemec. DedSec members, inspired with the works of T-Bone and Aiden Pearce, are determined to take the fight to the enemy."
 },{
-  "id": 4,
-  "image": "http://gamingmemoirs.co.uk/wp-content/uploads/2013/12/Killzone-Shadow-Fall-Boxart-820x1024.jpg",
+  "id": 3,
+  "image":"http://gamingmemoirs.co.uk/wp-content/uploads/2013/12/Killzone-Shadow-Fall-Boxart-820x1024.jpg",
   "name": "Killzone: Shadow Fall",
   "console": "PS4",
   "details": "Set approximately two to three decades after the events of Killzone 3, the once-warring Vektan ISA and Helghast have entered into an uneasy coexistence on planet Vekta.The Helghast people on Vekta are survivors of the devastation of Helghan during the Second Extrasolar War, their home world being irrevocably damaged when the maniacal Jorhan Stahl attempted to use an advanced Helghast space flagship stocked with irradiated petrusite missiles to wipe out Earth's population. Stahl's flagship was instead intercepted and destroyed by ISA-commandeered strike fighters mere moments before it could head to Earth, with its lethal petrusite payload detonating over Helghan instead, in a giant green wave. The resulting devastation killed a billion Helghast and left Helghan largely uninhabitable in an event called the Terracide.Following this a truce was called and the war ended. The remaining Helghast were relocated to Vekta where they were given half the planet. Vektan and Helghast cities and communities are separated by towering walls, their people living starkly contrasting lives, with tensions constantly high in areas bordering the walls.The game's events follow Lucas Kellan, a VSA Shadow Marshal tasked with keeping the peace between the two sides, and protecting his people from any threat the Helghast may cause, including terrorist attacks performed by the Black Hand."
 },{
-  "id": 5,
+  "id": 4,
   "image": "http://cdn-7.wololo.net/wagic/wp-content/uploads/2017/04/destiny2-819x1024.jpg",
   "name": "Destiny 2",
   "console": "PS4",
   "details": "Humanity’s last safe city has fallen to an overwhelming invasion force, led by Ghaul, the imposing commander of the brutal Red Legion. He has stripped the city’s Guardians of their power, and forced the survivors to flee. You will venture to mysterious, unexplored worlds of our solar system to discover an arsenal of weapons and devastating new combat abilities. To defeat the Red Legion and confront Ghaul, you must reunite humanity’s scattered heroes, stand together, and fight back to reclaim our home."
 
 },{
-  "id": 6,
+  "id": 5,
   "image": "http://cdn-2.wololo.net/wagic/wp-content/uploads/2016/08/doom_ps4-821x1024.jpg",
   "name": "Doom",
   "console": "PS4",
   "details": "In a research facility on Mars owned by the Union Aerospace Corporation, facility director Samuel Hayden's mind now inhabits an android body after having lost his original to brain cancer. Researchers attempted to draw energy from Hell in order to solve an energy crisis on Earth using the Argent Tower, which siphons energy and allows travel to and from Hell.[25] Hayden has already led multiple expeditions into Hell, bringing back captive demons and artifacts for study. One artifact was a sarcophagus containing the Doom Slayer, whom the demons imprisoned after his rampage through Hell.The facility has been invaded by demons after one of its scientists, Olivia Pierce, made a pact with them and opened a portal to Hell. In desperation, Samuel Hayden releases the Doom Slayer from his sarcophagus to repel the demonic invasion and close the portal. The Doom Slayer fights his way through the overrun facility and makes several excursions into Hell. He steals a magical blade, the Crucible, which he uses to destroy the portal's power source. He comes across Pierce, who transforms into the monstrous Spider Mastermind. He kills her. Upon the Doom Slayer's return to Mars, Hayden confiscates the Crucible, which he plans to use in his research. Despite all that has happened, Earth is too desperate for energy to give up. To prevent the Doom Slayer from interfering, Hayden teleports him to an undisclosed location, saying that they will meet again."
 },{
-  "id": 7,
+  "id": 6,
   "image": "http://cdn-3.wololo.net/wagic/wp-content/uploads/2016/11/dishonored2-821x1024.jpg",
   "name": "Dishonored 2",
   "console": "PS4",
   "details": "After an otherworldly usurper steals the throne from the Empress, she and Corvo Attano must travel to the city of Karnaca in search of the key that will restore her to power. Set 15 years after the original Dishonored, on the island of Serkonos, the game will feature two playable characters: Corvo Attano, the original protagonist of Dishonored, and Emily Kaldwin, Empress of the Empire of the Isles. Each holds their own unique design and powers. Also returning is the mysterious black-eyed deity known as The Outsider, who plays a pivotal role in conveying the story and progressing the plot in the game through dialogue and cutscenes.Travel beyond the legendary streets of Dunwall to Karnaca – a once-dazzling coastal city that holds the key to restoring Emily to power.Harvey Smith has stated that more than two endings will be available at the end of the game,[4] and several different states of those endings depending on whether the player achieved a high, low, or very high chaos playthrough."
 },{
-  "id": 8,
+  "id": 7,
   "image":"http://cdn-1.wololo.net/wagic/wp-content/uploads/2017/03/ffxii_zodiac_age_steelbook-819x1024.jpg",
   "name": "Final Fantasy XII:The Zodiac Age",
   "console": "PS4",
   "details": "Enter an era of war within the world of Ivalice. The small kingdom of Dalmasca, conquered by the Archadian Empire, is left in ruin and uncertainty. Princess Ashe, the one and only heir to the throne, devotes herself to the resistance to liberate her country. Vaan, a young man who lost his family in the war, dreams of flying freely in the skies. In a fight for freedom and fallen royalty, join these unlikely allies and their companions as they embark on a heroic adventure to free their homeland."
-}]
+}],
+"reviews": [{
+   "author": "Andrea",
+   "rating": 4,
+   "content": "Did not fall down."
+ }, {
+   "author": "Alex",
+   "rating": 9,
+   "content": "Nice view of the volcano!"
+ }]
 }
