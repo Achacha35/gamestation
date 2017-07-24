@@ -10,6 +10,7 @@ Router.map(function() {
   this.route('about');
   this.route('contact');
   this.route('game', {path: '/game/:game_id'});
+  this.route('favourites');
 });
 
 export default Router;

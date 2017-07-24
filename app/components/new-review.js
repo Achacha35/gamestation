@@ -3,9 +3,6 @@ import Ember from 'ember';
 export default Ember.Component.extend({
   addNewReview: false,
   actions: {
-    reviewFormShow() {
-      this.set('addNewReview', true);
-    },
     saveReview() {
      var params = {
        author: this.get('author'),
@@ -13,8 +10,12 @@ export default Ember.Component.extend({
        content: this.get('content'),
        game: this.get('game')
      };
-     this.set('addNewReview', false);
-     this.sendAction('saveReview', params);
-   }
+     if (params.author !== undefined && params.rating !== undefined && params.content !== undefined) {
+       this.sendAction('saveReview', params);
+       this.set('author', '');
+       this.set('rating', '');
+       this.set('content', '')
+}
+     }
   }
 });
