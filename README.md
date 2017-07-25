@@ -1,7 +1,5 @@
-# gamestation
-
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+# GAMESTATION
+The gamestation shows users the latest ps4 games with their ratings and reviews. Users are able to give their own reviews about the games and give them stars so as to rate them.
 
 ## Prerequisites
 
